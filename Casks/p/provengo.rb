@@ -19,7 +19,6 @@ cask "provengo" do
 
   app "Provengo-2023-07-20.uber.jar"
   binary "provengo"
-
   caveats do
     license "https://provengo.tech/?page_id=169"
     depends_on_java "11+"
